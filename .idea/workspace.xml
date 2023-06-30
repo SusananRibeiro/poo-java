@@ -4,55 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18424e1f-d571-4946-8860-4f2eeed5136f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poo-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/abstrato/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/abstrato/AnimalApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/abstrato/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/abstrato/Mamifero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/carros/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/carros/CarroApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/carros/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/compras/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/compras/CompraApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/compras/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/cursos/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/cursos/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/cursos/CursoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/desafio/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/desafio/ClienteApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/desafio/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/desafio/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/composicao/desafio/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/encapsulamento/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/encapsulamento/PessoaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/encapsulamento/casaA/Ana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/encapsulamento/casaA/Paulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/encapsulamento/casaB/Julia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/encapsulamento/casaB/Pedro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/automovel/CarroApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/automovel/carros/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/automovel/carros/Civic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/automovel/carros/Esportivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/automovel/carros/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/automovel/carros/Luxo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/jogo/JogoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/jogo/comandos/Direcao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/jogo/comandos/Heroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/jogo/comandos/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/heranca/jogo/comandos/Monstro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/polimorfismo/Arroz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/polimorfismo/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/polimorfismo/Feijao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/polimorfismo/JantarApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/polimorfismo/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/polimorfismo/Sorvete.java" afterDir="false" />
-    </list>
+    <list default="true" id="18424e1f-d571-4946-8860-4f2eeed5136f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
